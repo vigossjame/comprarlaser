@@ -6,7 +6,7 @@ tags:
 - javascript
 - php
 - laravel
-image: https://www.comprarlaser.com/images/p/l/220216/LM07900.jpg
+image: https://www.comprarlaser.com/images/p/l/200317/GL17200.jpg
 ---
 ## Los productos láser con materiales grabados
 
