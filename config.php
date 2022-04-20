@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Cosas de tecnología de puntero láser',
+        'description' => 'Cosas de tecnología de puntero láser',
         'image' => 'default-share.png',
     ],
     'owner' => [
