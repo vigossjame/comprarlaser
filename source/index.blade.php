@@ -1,21 +1,17 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>El puntero láser para el experimento láser</h1>
+<p>En muchos campos industriales, los usuarios están seriamente obligados a lograr un alto nivel de precisión en las superficies de trabajo requeridas. Por lo general, la operación del <strong><a href="https://www.comprarlaser.com/">puntero láser (comprarlaser.com)</a></strong> no tiene limitación de distancia exacta, sino que solo obtiene el experimento láser más satisfecho después del ajuste adecuado de la selección de dirección y potencia de salida. Obviamente, no es realista usar pintura manual simple, por lo que cada vez más trabajadores prefieren seleccionar el láser verde para asegurar el resultado de prueba más preciso en todas las superficies de trabajo de manera eficiente.</p>
+<p><strong>Cuando los usuarios están haciendo un experimento con láser, mostrará el rayo láser en el procesamiento de materiales. No solo afecta la buena apariencia de los materiales de procesamiento, sino que también desperdicia mucho tiempo para la colimación primaria. Solo después de un simple ajuste de la dirección del láser verde, este láser comenzará a realizar experimentos láser precisos en todas las superficies de trabajo. Comencemos con el más antiguo y pasemos al más reciente.</strong></p>
+<p>Esa es la placa frontal interior y no debe confundirse con la placa de moldura exterior. ¿Un poco caro? Quizás. Pero con una garantía de 5 años y nada más que comprar, creemos que vale la pena invertir en estos potentes punteros láser azules. La marca de seguridad es todo lo que significa hacer las pruebas y certificaciones y en muchos casos no le cuesta tanto al fabricante. Este puntero láser azul es importante para nuestros clientes europeos.</p>
+<p>Cuando los usuarios seleccionan el láser más preciso, es extremadamente importante hacer la selección adecuada de potencia de salida, grado de lente láser a una distancia de trabajo determinada. Solo si los usuarios han hecho la selección adecuada del puntero láser verde requerido, los usuarios siempre pueden obtener el experimento láser más preciso. Funcionan en conjunto con una fuente de alimentación AC-DC, pero no tiene que ser grande. Puede elegir entre tres estilos y dos colores de punteros láser.</p>
+<p>El potente puntero <strong><a href="https://www.comprarlaser.com/puntero-laser-azul/c-4.html">láser azul</a></strong> está personalizado para usted. Sorprendentemente, el tiempo de entrega de un pedido personalizado es de solo 5 a 7 días hábiles. Cuál necesitará dependerá de la cantidad de producto láser que vaya a utilizar y del tiempo que necesite que funcionen los punteros láser. Entonces, ¿cómo mantiene esas luces uniformemente brillantes durante toda la noche? Ingrese el paquete de baterías recargables de 12 V CC.</p>
+<p>Hemos presentado otro producto nuevo esta semana que satisface una necesidad creciente: punteros láser que funcionan con baterías y dispositivos láser portátiles. A medida que el módulo láser se vuelve más y más popular, queremos usarlo en todas partes. El bolígrafo láser está a la vuelta de la esquina, seguido de las vacaciones de Acción de Gracias, Navidad y Año Nuevo. Si eres un fanático de Youtube, has visto los disfraces escandalosamente creativos que la gente ha diseñado con los punteros láser.</p>
+<p><em>En campos de trabajo de medición avanzados, este puntero láser siempre brinda a los usuarios un resultado y una experiencia súper agradables. Con la condición de que esté equipado con una potencia de salida diferente, una lente cilíndrica recubierta de vidrio de grado de lente, este módulo de diodo láser solo produce un grosor de haz diferente a la distancia de trabajo diferente. Estos punteros láser son mejores para brillar contra una superficie como una pared o una escena que haya creado en su jardín delantero. También resistentes a la intemperie, son seguros para usar al aire libre, incluso en una noche lluviosa fantasmagórica.</em></p>
+<p>¿No estás seguro de cómo usar un puntero láser? Ahí es donde entra en juego nuestra fuerza técnica de ventas. Envíenos un correo electrónico describiendo su proyecto y haremos que alguien se comunique con usted para ofrecerle orientación y tal vez incluso ampliar sus planes creativos. Tu imaginación es tu única limitación cuando se trata del puntero láser. No hace falta decir que tenemos muchos clientes que quieren algo temporal para el exterior de sus casas rodantes, etc. Estos nuevos paquetes de baterías de mayor capacidad fueron justo lo que recetó el médico.</p>
+<p>Como resultado, el módulo de láser rojo se ha convertido en una herramienta de medición muy popular aceptable en el mercado. Disponible con un diseño compacto de solo 16 mm de diámetro, este dispositivo láser avanzado siempre permite un montaje, instalación y operación bastante sencillos. De acuerdo con la necesidad de prueba exacta, los usuarios pueden hacer el ajuste y el movimiento más fáciles de este láser. En la oscuridad, el módulo láser te será útil. Entonces, si desea comenzar a buscar una idea fabulosa para este láser, comience a buscar ahora y acérquese a nosotros para obtener todo lo que necesita para completar el módulo láser.</p>
+<p><a href="https://www.comprarlaser.com/puntero-laser-azul/c-4.html"><img src="https://www.comprarlaser.com/images/p/l/220321/BL13800.jpg" alt="láser azul"></a></p>
+<p>Para prepararse para la temporada navideña, hemos traído paquetes de baterías recargables con una capacidad de 3800 mAh y 6800 mAH que alimentarán sus punteros láser durante un tiempo suficiente sin preocuparse por reemplazar las baterías en la oscuridad. Y si vas a ir a más de una fiesta con tu disfraz, el tiempo de recarga es de solo una hora. A los planificadores de fiestas les encantan estos módulos láser. Eso es tiempo suficiente para iluminar un hermoso arreglo o decoración de mesa.</p>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
-
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
-
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
-
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
-        <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
-    </a>
-
-    <h2 id="test">Asset Compilation Test</h2>
-
-    <p>CSS test: <span class="test-css">text with blue border</span></p>
-
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
-@endsection
+    <p> @endsection</p>
